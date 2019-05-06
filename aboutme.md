@@ -2,15 +2,15 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Denise Oyston, the manager of the **Oyston One Name Study**.  I have only recently started the study, so the information is a bit sparse at present. However, I have loads more information available and current family research is available at Ancestry.com.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Background
 
-What else do you need?
+I have been researching our family's history for thirty years.  **Oyston** is my married name, and I decided to study my husband's surname, because two thirds of our immediate family share **Oyston** DNA.  Initial indications, show that in United Kingdom **Oyston** is mainly found in three clusters: *Yorkshire and Durham*, *Middlesex, Hertfordshire and Cambridgeshire* and *South West - Dorset, Somerset and Devon*  I have also found **Oistyn** in Northern Germany.
 
-### my history
+I am married to John Oyston and we have a daughter, who is married to a New Yorker and now lives there, so hopefully our branch of Oyston is becoming worldwide.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
