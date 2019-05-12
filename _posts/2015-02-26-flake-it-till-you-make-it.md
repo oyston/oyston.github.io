@@ -6,7 +6,7 @@ bigimg: img/oytonbg.jpg
 tags:
   - Guild of One Name Studies
   - Description
-published: false
+published: true
 date: '2019-05-12'
 image: ' img/0ystonbg1.jpg'
 ---
