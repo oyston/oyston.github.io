@@ -9,6 +9,7 @@ tags:
 published: true
 date: '2019-05-12'
 image: ' img/oystonbg1.jpg'
+Title: Oyston One Name Study
 ---
 
 The **Oyston** One Name Study is a registered study at *Guild of One Name Studies* for rearching the name worldwide and hopes to discover over time the origins and meaning of the name, the main areas of where it is found and time periods.
