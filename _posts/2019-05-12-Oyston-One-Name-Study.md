@@ -2,7 +2,7 @@
 layout: post
 title: Oyston One Name Study - What is it All About?
 subtitle: Decription of Study
-bigimg: img/oytonbg.jpg
+bigimg: img/oystonbg.jpg
 tags:
   - Guild of One Name Studies
   - Description
