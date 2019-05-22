@@ -37,4 +37,3 @@ title: 'places index'
     </div>
 {%- endfor -%}
 </div>
-
