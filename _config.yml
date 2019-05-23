@@ -25,7 +25,7 @@ description: Worldwide study of the surname Oyston
 navbar-links:
   About Me: "aboutme"
   Tags: "tags"
-  Places: "posts"
+  Posts: "posts"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
