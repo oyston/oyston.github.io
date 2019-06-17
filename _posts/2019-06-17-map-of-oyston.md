@@ -7,6 +7,9 @@ Tags:
   - Map
 date: '2019-06-17'
 subtitle: A Google Map of Oyston
+tags:
+  - Places
+  - Map
 ---
 ## Map of Oyston
 
