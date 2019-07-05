@@ -26,12 +26,33 @@ navbar-links:
   About Me: "aboutme"
   Tags: "tags"
   Posts: "posts"
+  Places: "places"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     - Guild of One Name Studies: "https://one-name.org"
   Home: "http://jodenoy.github.com"
+
+collections:
+  places:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "places"
+    values:
+      layout: "places"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -79,14 +100,6 @@ social-network-links:
   facebook: OystonONS
   github: oyston
   twitter: ONSOyston
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
