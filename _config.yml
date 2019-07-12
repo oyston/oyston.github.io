@@ -26,6 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Tags: "tags"
   Posts: "posts"
+  Terms: "terms"
+  Occupations: "occupations"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
