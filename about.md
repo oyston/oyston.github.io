@@ -3,7 +3,7 @@ layout: page
 title: About Oyston Worldwide
 subtitle: null
 published: true
-date: {}
+date: 2019-07-13T00:00:00.000Z
 tags:
   - Oyston
   - Denise Oyston
