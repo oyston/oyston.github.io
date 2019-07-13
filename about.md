@@ -2,7 +2,7 @@
 layout: page
 title: About Oyston Worldwide
 subtitle: null
-published: false
+published: true
 date: {}
 tags:
   - Oyston
