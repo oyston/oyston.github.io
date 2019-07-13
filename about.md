@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Denise Oyston and Oyston Worldwide
+title: About Oyston Worldwide
 subtitle: null
 published: true
 date: 2019-07-13T00:00:00.000Z
@@ -22,7 +22,7 @@ I am married to John Oyston and we have a daughter, who is married to a New York
 
 ![oystons.jpg]({{site.baseurl}}/img/oystons.jpg)
 
-### About Oyston Worldwide, One Name Study88
+### About Oyston Worldwide, One Name Study
 
 My aim with **Oyston** One Name Study is to provide an entertaining, informative and useful web site as economically as possible.  So far my only costs are **GOONS** membership and registration fee, **Oyston Online** Domain name.
 
@@ -33,4 +33,3 @@ There are useful Youtube videos on how to use Jekyll by [Giraffe Academy](https:
 If you only have access to a Chromebook or little hard drive space, Github provides an editor at [prose.io](https://prose.io/).  This uses **Markdown** to write webpages.  There are links under **Resources** on **Oyston Worldwide**.
 
 You can contact me using my one name study email [oyston@one-name.org.uk](mailto:oyston@one-name.org.uk).
-
