@@ -26,7 +26,9 @@ navbar-links:
   About: "about"
   Tags: "tags"
   Posts: "posts"
-  Terms: "terms"
+  Terms: 
+    - Privacy Notice: "privacy"
+    - Terms and Conditions: "terms"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
