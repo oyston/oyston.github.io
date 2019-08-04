@@ -1,7 +1,8 @@
 ---
 layout: Page
 title: Protecting Your Privacy
-permalink: /privacy.md
+published: true
+permalink: /privacy
 ---
 
 OYSTON ONLINE PRIVACY POLICY
