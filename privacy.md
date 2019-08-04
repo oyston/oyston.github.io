@@ -34,10 +34,11 @@ We use your data to process your orders, maintain our database and make our webs
 HOW DO WE STORE YOUR DATA?
 Any ancestry data is securely stored on Airtable.com and in most circumstances is commonly available from various sources and public databases. Airtable's privacy policy is available here.
 We use Amazon for our publishing partner, their privacy policy is available here.
+
 MARKETING
 You have the right at any time to stop Oyston Online from contacting you for marketing purposes.
 
-If you no longer wish to be contacted for marketing purposes, please click here. 
+If you no longer wish to be contacted for marketing purposes, please click  
 
 We keep no personal information about our users, other than historic genealogical data.  No details of persons born in the last 100 years are displayed without specific authorisation.
 
@@ -108,5 +109,5 @@ Should you wish to report a complaint or if you feel that we have not addressed 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4MzM1MTEwXX0=
+eyJoaXN0b3J5IjpbMTY3NzY5MzAxMl19
 -->
