@@ -38,7 +38,7 @@ We use Amazon for our publishing partner, their privacy policy is available [her
 MARKETING
 You have the right at any time to stop Oyston Online from contacting you for marketing purposes.
 
-If you no longer wish to be contacted for marketing purposes, please click  
+If you no longer wish to be contacted for marketing purposes, please click  [here](mailto:oyston@one-name.org). 
 
 We keep no personal information about our users, other than historic genealogical data.  No details of persons born in the last 100 years are displayed without specific authorisation.
 
@@ -109,5 +109,5 @@ Should you wish to report a complaint or if you feel that we have not addressed 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTMxNTY1M119
+eyJoaXN0b3J5IjpbMTg1MTQ2MzQ0Nl19
 -->
