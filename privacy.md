@@ -32,7 +32,7 @@ HOW WILL WE USE YOUR DATA?
 We use your data to process your orders, maintain our database and make our website easier for you to use.
 
 HOW DO WE STORE YOUR DATA?
-Any ancestry data is securely stored on Airtable.com and in most circumstances is commonly available from various sources and public databases. Airtable's privacy policy is available[here](https://airtable.com/privacy).
+Any ancestry data is securely stored on Airtable.com and in most circumstances is commonly available from various sources and public databases. Airtable's privacy policy is available [here](https://airtable.com/privacy).
 We use Amazon for our publishing partner, their privacy policy is available [here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909010).
 
 MARKETING
@@ -59,5 +59,5 @@ If you have any questions about our privacy policy, the data we hold on you, or 
 HOW TO CONTACT THE APPROPRIATE AUTHORITY
 Should you wish to report a complaint or if you feel that we have not addressed your concern in a satisfactory manner, you may contact the Information Commissioner's Office.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU2Mjc3MzVdfQ==
+eyJoaXN0b3J5IjpbMjAyNTc0ODQxMywtMTIzNTYyNzczNV19
 -->
