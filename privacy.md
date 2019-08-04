@@ -21,6 +21,7 @@ What type of cookies do we use?
 Changes to our privacy policy.
 How to contact us?
 How to contact the relevant authorities?
+
 WHAT DATA DO WE COLLECT?
 We collect information that you have authorised us to collect or is publicly available.
 
@@ -106,3 +107,6 @@ HOW TO CONTACT THE APPROPRIATE AUTHORITY
 Should you wish to report a complaint or if you feel that we have not addressed your concern in a satisfactory manner, you may contact the Information Commissioner's Office.
 
  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzY4MzM1MTEwXX0=
+-->
