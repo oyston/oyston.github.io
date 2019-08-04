@@ -53,11 +53,11 @@ We keep our privacy policy under regular review and place any updates on this we
 
 HOW TO CONTACT US
 If you have any questions about our privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.  
-[Email us at:](mailto:oyston@one-name.org) 
+[Email:](mailto:oyston@one-name.org) 
 
 
 HOW TO CONTACT THE APPROPRIATE AUTHORITY
 Should you wish to report a complaint or if you feel that we have not addressed your concern in a satisfactory manner, you may contact the Information Commissioner's Office.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTU4MTcwOF19
+eyJoaXN0b3J5IjpbLTEyMzU2Mjc3MzVdfQ==
 -->
