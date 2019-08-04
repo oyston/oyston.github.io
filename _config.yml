@@ -27,7 +27,7 @@ navbar-links:
   Tags: "tags"
   Posts: "posts"
   Terms: 
-    - Privacy Notice: "privacy.md"
+    - Privacy Notice: "privacy"
     - Terms and Conditions: "terms"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
