@@ -57,4 +57,7 @@ OUR DETAILS
 14.2    You can contact her:
 (a) using our website contact form;
 (b) by email, using the email address published on our website from time to time. 
-(c) by using social buttons on the website.
+(c) by using social buttons on the websiteI am Denise Oyston, the manager of the Oyston One Name Study. I have only recently started the study, so the information is a bit sparse at present. However, I have loads more information available and current family research is available at Ancestry.com.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjc2MzA2ODkwXX0=
+-->
