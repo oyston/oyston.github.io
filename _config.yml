@@ -26,10 +26,11 @@ navbar-links:
   About: "about"
   Tags: "tags"
   Posts: "posts"
-  Terms and Contact: 
+  Terms, Contact and Submit: 
     - Privacy Notice: "privacy"
     - Terms and Conditions: "terms"
     - Contact: "contact"
+    - Submit Entries: "submit" 
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
