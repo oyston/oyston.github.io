@@ -23,14 +23,14 @@ description: Worldwide study of the surname Oyston
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
   Tags: "tags"
   Posts: "posts"
   Terms, Contact and Submit: 
     - Privacy Notice: "privacy"
     - Terms and Conditions: "terms"
     - Contact: "contact"
-    - Submit Entries: "submit" 
+    - Submit Entries: "submit"
+    - About: "about"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
