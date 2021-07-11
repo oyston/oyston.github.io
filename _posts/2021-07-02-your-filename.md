@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Deaths to 30 June 2021
 subtitle: Deaths to 30 June 2021
 date: '2021-07-02'
